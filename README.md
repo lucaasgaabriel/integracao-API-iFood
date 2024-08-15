@@ -1,5 +1,5 @@
 # Integração API do Ifood
-- Essa integração visa a população de um banco de dados **MySQL** com dados provenientes do **iFood** referente à uma loja utilizando o **Python**.
+Essa integração visa a população de um banco de dados **MySQL** com dados provenientes do **iFood** referente à uma loja utilizando o **Python**.
   
 ## Bibliotecas de requisitos
 ```bash
